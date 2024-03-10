@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Muhammad Mirza Rafi'uddin</h1>
+<h3 align="center"> Hanya Seorang Hamba Allah!!</h3>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mirza1805&show_icons=true&locale=en" alt="Mirza1805" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mirza1805&show_icons=true&locale=en&layout=compact" alt="Mirza1805" /></p>
